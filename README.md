@@ -5,6 +5,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Brgvos ISO Builder 探索筆記](https://samwhelp.github.io/note-about-brgvos-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-brgvos-iso-builder) |
+| [Brgvos 探索筆記](https://samwhelp.github.io/note-about-brgvos/) | [GitHub](https://github.com/samwhelp/note-about-brgvos) |
 
 
 
