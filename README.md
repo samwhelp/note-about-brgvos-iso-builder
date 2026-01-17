@@ -25,9 +25,6 @@
 | [brgvos-void](https://github.com/samwhelp/brgvos-void) / [source](https://github.com/florintanasa/brgvos-void) |
 | brgvos-void / [refactoring-main](https://github.com/samwhelp/brgvos-void/tree/refactoring-main) |
 | brgvos-void / [refactoring-mykeybind](https://github.com/samwhelp/brgvos-void/tree/refactoring-mykeybind) |
-| [Brgvos Live Build Config / Start](https://github.com/samwhelp/brgvos-live-build-config-start) |
-| [Brgvos Live Build Config / Develop](https://github.com/samwhelp/brgvos-live-build-config-develop) |
-| [Brgvos Live Build Config / Using](https://github.com/samwhelp/brgvos-live-build-config-using) |
 
 
 
